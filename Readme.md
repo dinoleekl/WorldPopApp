@@ -1,4 +1,6 @@
+## Shiny App
 This small Shiny app shows the world population statistics depending on the user input.
+Available [here](https://dinoleekl.shinyapps.io/worldPopApp/)
 
 ## Presentation slides: 
 - [here](http://dinoleekl.github.io/WorldPopApp/worldPopAppPresentation.html)
